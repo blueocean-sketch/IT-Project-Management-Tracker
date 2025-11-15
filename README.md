@@ -1,70 +1,92 @@
-IT Project Management Tracker
+IT Project Management Dashboard
 
-📊 Interactive Excel Dashboard to track and analyze IT projects with KPIs, pivot tables, and dynamic charts. Designed to provide actionable insights into budget utilization, timelines, project status, and client satisfaction.
+Interactive Excel-based dashboard tracking IT project performance across multiple domains (Cloud, ERP, DevOps, Web Revamp), enabling quick insights into budgets, timelines, and client satisfaction.
+<img width="1314" height="505" alt="Capture" src="https://github.com/user-attachments/assets/99f68265-3984-4c35-8834-3428fda9be38" />
 
 🔑 Features
 
-Comprehensive Project Tracking – Budget vs. Spend, Variance, Status, and Priority.
+Budget vs Actual Spend with variance insights
 
-Dynamic Dashboards – All key metrics and charts visible at a glance.
+On-Time % performance across projects
 
-Client Satisfaction Analysis – Track performance beyond financials.
+Client satisfaction scoring
 
-KPI Overview – Quick insights into project health and efficiency.
+Pivot-based charts for quick visual analysis
 
-Data Visualization – Interactive charts (bar, column, pie, scatter).
+Clean workbook flow: Raw Data → Pivots → Dashboard
 
-Clean Structure – Separate worksheets for raw data, pivot tables, visualizations, and dashboard.
+PPT summary included for presentation-ready insights
 
 🛠️ Skills Demonstrated
 
-Advanced Excel (Pivot Tables, Pivot Charts, Conditional Formatting, Formulas)
+Excel: Pivot Tables, Pivot Charts, Conditional Formatting
 
-Data Visualization & Storytelling (turning raw data into actionable insights)
+Dashboard design and visual storytelling
 
-Project Management Concepts – Budget control, variance analysis, KPIs
+Understanding of project management KPIs
 
-Dashboard design for business reporting
+Data interpretation and insight generation
 
 📂 Repository Structure
-
-Raw Data – Input project data (budgets, timelines, satisfaction scores).
-
-Pivot Tables – Backend calculations and aggregations.
-
-Data Visualization – Supporting pivot charts.
-
-Dashboard – Interactive final view with KPIs + charts.
+IT_Project_Management_Dashboard/
+│
+├── IT_Project_Management_Tracker.xlsx
+├── IT_Project_Management_Dashboard.pptx
+├── README.md
+└── /screenshots/
+       ├── dashboard.png
+       ├── budget_vs_actual.png
+       ├── status_distribution.png
+       └── ppt_summary.png
 
 📸 Screenshots
 
-Budget vs. Spent Analysis
+<img width="569" height="301" alt="Capture 1" src="https://github.com/user-attachments/assets/4ff3db01-1631-4ef1-9dd2-d608b07c3672" />
+<img width="456" height="281" alt="Capture 2" src="https://github.com/user-attachments/assets/0350b981-bac3-4d08-a846-2e01b4052456" />
+<img width="986" height="527" alt="Capture 3" src="https://github.com/user-attachments/assets/a86ac715-6773-4aad-aa06-c82b8575063f" />
 
-<img width="659" height="394" alt="budget vs spent analysis" src="https://github.com/user-attachments/assets/2fae3a96-13cb-4167-b655-ae592d709424" />
+📊 Key Insights
 
-KPI + Dashboard View
+On-time performance averages ~65% → recurring delivery delays
 
-<img width="1318" height="472" alt="Capture" src="https://github.com/user-attachments/assets/ac80264a-595b-429a-913b-1b2e31a4c9ca" />
-🚀 How to Use
+Budget variance often negative → overspending trends
 
-Open the Excel file.
+Client satisfaction averages ~5.7/10 → moderate experience
 
-Go to the Dashboard tab for an overview.
+High-budget clients (TCS, EY, Accenture) require closer monitoring
 
-Update the Raw Data sheet → Dashboard auto-refreshes.
+High-priority projects show larger cost overruns
 
-🎯 Why This Project?
+📌 Recommendations
 
-This project demonstrates my ability to:
+Tighten scope & cost controls
 
-Translate raw datasets into business insights.
+Weekly variance tracking, stricter change control to stabilize budgets.
 
-Build executive-friendly dashboards in Excel.
+Improve schedule reliability
 
-Apply project management analytics in real-world IT contexts.
+Better effort estimation, buffer planning, dependency management.
 
-💡 Future Improvements
+Strengthen client communication
 
-Add slicers for filtering by Client / Project Manager / Status.
+Monthly review calls and proactive updates to improve satisfaction.
 
-Automate data refresh using Power Query.
+Refresh dashboards weekly
+
+Early identification of budget/timeline slippages.
+
+Dedicated governance for high-priority projects
+
+Separate oversight lane to manage risk and performance.
+
+Monitor top clients closely
+
+TCS, EY, Accenture account for highest budgets; stable delivery is critical.
+
+💡 Future Enhancements
+
+Add slicers for Client / PM / Status
+
+Implement Power Query refresh automation
+
+Include risk and priority scoring model
