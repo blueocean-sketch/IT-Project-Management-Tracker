@@ -28,16 +28,17 @@ Understanding of project management KPIs
 Data interpretation and insight generation
 
 📂 Repository Structure
+---
 IT_Project_Management_Dashboard/
 │
 ├── IT_Project_Management_Tracker.xlsx
 ├── IT_Project_Management_Dashboard.pptx
 ├── README.md
-└── /screenshots/
-       ├── dashboard.png
-       ├── budget_vs_actual.png
-       ├── status_distribution.png
-       └── ppt_summary.png
+└── screenshots/
+    ├── dashboard.png
+    ├── budget_vs_actual.png
+    ├── status_distribution.png
+    └── ppt_summary.png
 
 📸 Screenshots
 
