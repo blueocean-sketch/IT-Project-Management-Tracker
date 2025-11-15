@@ -1,9 +1,9 @@
-IT Project Management Dashboard
+# IT Project Management Dashboard
 
 Interactive Excel-based dashboard tracking IT project performance across multiple domains (Cloud, ERP, DevOps, Web Revamp), enabling quick insights into budgets, timelines, and client satisfaction.
 <img width="1314" height="505" alt="Capture" src="https://github.com/user-attachments/assets/99f68265-3984-4c35-8834-3428fda9be38" />
 
-🔑 Features
+## 🔑 Features
 
 Budget vs Actual Spend with variance insights
 
@@ -17,7 +17,7 @@ Clean workbook flow: Raw Data → Pivots → Dashboard
 
 PPT summary included for presentation-ready insights
 
-🛠️ Skills Demonstrated
+## 🛠️ Skills Demonstrated
 
 Excel: Pivot Tables, Pivot Charts, Conditional Formatting
 
@@ -40,13 +40,13 @@ IT_Project_Management_Dashboard/
     ├── status_distribution.png
     └── ppt_summary.png
 
-📸 Screenshots
+## 📸 Screenshots
 
 <img width="569" height="301" alt="Capture 1" src="https://github.com/user-attachments/assets/4ff3db01-1631-4ef1-9dd2-d608b07c3672" />
 <img width="456" height="281" alt="Capture 2" src="https://github.com/user-attachments/assets/0350b981-bac3-4d08-a846-2e01b4052456" />
 <img width="986" height="527" alt="Capture 3" src="https://github.com/user-attachments/assets/a86ac715-6773-4aad-aa06-c82b8575063f" />
 
-📊 Key Insights
+## 📊 Key Insights
 
 On-time performance averages ~65% → recurring delivery delays
 
@@ -58,7 +58,7 @@ High-budget clients (TCS, EY, Accenture) require closer monitoring
 
 High-priority projects show larger cost overruns
 
-📌 Recommendations
+## 📌 Recommendations
 
 Tighten scope & cost controls
 
@@ -84,7 +84,7 @@ Monitor top clients closely
 
 TCS, EY, Accenture account for highest budgets; stable delivery is critical.
 
-💡 Future Enhancements
+## 💡 Future Enhancements
 
 Add slicers for Client / PM / Status
 
